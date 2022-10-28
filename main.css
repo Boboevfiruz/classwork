@@ -2,3 +2,47 @@
     margin: 0;
     padding: 0;
 }
+.ab_contener_form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5e5e5;
+    height: 100vh;
+}
+.ab_main_form{
+    width: 75%;
+    height: 70%;
+   background-color: white;
+   display: flex;
+
+}
+.ab_left_form{
+    width: 50%;
+    padding: 30px 20px;
+}
+.ab_right_text{
+    width: 50%;
+}
+#abemail{
+    width: 90%;
+    padding: 10px 12px;
+    border: none;
+    border-bottom: 2px solid red;
+}
+#Mesegges{
+    width: 20%;
+}
+.ab_h1_Send{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+
