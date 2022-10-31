@@ -2,3 +2,201 @@
     margin: 0;
     padding: 0;
 }
+.Ibconteiner{
+    width: 100%;
+    height: 15vh;
+    background-color: rgb(43, 38, 38);
+   
+}
+.Ibconteiner{
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+.Ibright p{
+    font-size: 300%;
+    color: white;
+}
+.Ibconteinerimage{
+    background-image: url(./images/fggffgfg-min.jpg);
+    width: 100%;
+    height: 120vh;
+    background-size: cover;
+}
+.adventure{
+    width: 45%;
+    height: 50%;
+    background-color: rgb(48, 40, 40);
+    position: relative;
+    left: 50%;
+    bottom: 50%;
+   padding-top: 2%;
+   
+}
+.Iborange{
+    width: 25%;
+    height: 75%;
+    background-color: orange;
+    margin-left: 60%;
+    position: relative;
+    top: 13%;
+    
+}
+#br{
+    margin-top: 200px;
+    color: aliceblue;
+    font-size: 100px;
+    font-weight: 100;
+    margin-left: 5%;
+}
+.adven{
+    color: aliceblue;
+    font-weight: 100;
+    font-size: 200px;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 30px;
+}
+.Im{
+    color: aliceblue;
+    font-size: 100px;
+    margin-left: 5%;
+    
+}
+
+.Ibmiddle{
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+}
+.Ibleft2{
+    width: 40%;
+    height: 107vh;
+    color:black;
+    font-size: 500%;
+    border: 1px solid;
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+}
+.conteiner2{
+    width: 100%;
+   
+}
+.main2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.main2,.chap,.mobayn,.ros{
+    width: 100%;
+}
+.miniconteiner{
+    width: 80%;
+    height: 20vh;
+    background-color: grey;
+    position: relative;
+    left: 6%;
+    opacity: 0.1;
+}
+.mobayn img{
+    width: 100%;
+}
+.ros img{
+    width: 50%;
+    margin-left: 450px;
+}
+.exp{
+    font-size: 150px;
+    font-weight: 100;
+    text-align: justify;
+    position: relative;
+    margin-left: 300px;
+    bottom: 140px;
+}
+.tra{
+    font-style: italic;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 28px;
+    font-size: 70px;
+    margin-top: 50px;
+}
+.have{
+    text-align: center;
+    font-size: 25px;
+    color: gray;
+    font-weight: 100;
+    line-height: 1.5;
+    font-size: 60px;
+    margin-top: 50px;
+}
+.conteiner3{
+   width: 100%; 
+   position: relative;
+
+}
+.photo img{
+
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    
+}
+.texto{
+   position:absolute;
+    bottom: 1450px;
+    left: 1450px;
+}
+#go{
+    font-size: 200px;
+    font-weight: 100;
+    color: white;
+    
+}
+.hat{
+    border: 3px solid gray;
+    background-color: white;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 100px;
+}
+.types{
+    margin-top: 150px;
+    font-size: 100px;
+    position: absolute;
+    right: 100px;
+    text-align: center;
+    color: white;
+}
+#from{
+    font-size: 100px;
+position: absolute;
+bottom: 320px;
+left: 2100px;
+color: white;
+}
+#href{
+    font-size: 100px;
+    position: absolute;
+    bottom: 320px;
+    left: 2600px;
+    text-decoration: none;
+    color: white;
+    text-decoration: underline;
+}
+#read{
+    font-size: 50px;
+    padding: 40px 150px;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 100px;
+    left: 2200px;
+    font-weight: 100;
+}
+#read:hover{
+background-color: slategrey;
+}
