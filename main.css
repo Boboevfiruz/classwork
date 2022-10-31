@@ -1,4 +1,90 @@
 *{
     margin: 0;
     padding: 0;
+}.fbfirst{
+    width: 95%;
+    margin: auto;
+    font-size: 25px;
+    font-weight: 100;
+    line-height: 45px;
+}.fbfirst i{
+    padding-right: 45px;
+}.fbsecond {
+    width: 40%;
+   position: relative;
+   top: 20px;
+   left: 500px;
+   font-size: 25px;
+}.fbsecond i{
+    color: orange;
+    font-size: 85px;
+}.fbthird img{
+    margin-top: 60px;
+    width: 30%;
+    height: auto;
+}.fbfourth{
+    height: 70vh;
+    background-color: lightgray;
+    display: flex;
+    justify-content: space-around;
+    /* margin-bottom: 60px; */
+    padding-top: 90px;
+}.fbleft4{
+    padding-left: 200px;
+}.fbleft4 img{
+    margin-top: 59px;
+    width: 320px;
+    border-radius: 50%;
+}.fbleft4 h1{
+    font-size: 95px;
+    font-weight: 100;
+}
+.fbright4{
+    margin-top: 70px;
+    width: 40%;
+    text-align: center;
+    font-size: 1.125rem;
+    line-height: 30px;
+}.fbright4 i{
+    margin: 45px;
+}.fbbackground{
+    background-image: url(./images/winterforrest.jpg);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}.fbfifth {
+    height: 70vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}.fbright5{
+    width: 35%;
+    line-height: 35px;
+    font-size: 1.125rem;    
+}.fbright5 button{
+    padding: 10px;
+    margin-top: 40px;
+}.fbright5 button:hover{
+    background-color: black;
+    color: white;
+}.fbright5 h6{
+    margin: 20px 5px;
+    font-size: 25px;
+    font-weight: 100;
+}
+#fbcircle{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: #f86449;
+    margin-top: 50px;
+    margin-left: 120px;
+}.fbleft5 {
+    font-size: 30px;
+    font-weight: 100;
+    width: 45%;
+    /* text-align: center; */
+}.fbleft5 h1{
+    margin-left: 120px;
 }
